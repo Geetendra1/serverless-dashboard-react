@@ -1,0 +1,9 @@
+.App {
+  margin-top: 15px;
+  background-color: whitesmoke
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
